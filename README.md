@@ -1,4 +1,5 @@
 Nama Produk : SIAP KOTA BANDUNG ( SISTEM INFORMASI AKSES PELAYANAN KESEHATAN KOTA BANDUNG)
+
 SIAP Bandung (Sistem Informasi Akses Pelayanan Kesehatan) berbasis WebGIS adalah platform digital terpadu yang memanfaatkan teknologi pemetaan geografis untuk memberikan informasi layanan kesehatan secara visual dan interaktif. Website ini memungkinkan masyarakat Kota Bandung untuk mengakses data real-time mengenai lokasi fasilitas kesehatan, jenis layanan, jadwal dokter, dan prosedur administrasi. Dengan fitur peta interaktif, pengguna dapat dengan mudah menemukan fasilitas kesehatan terdekat dan mendaftar layanan secara online. SIAP Bandung mendukung efisiensi, transparansi, dan inklusivitas, serta berkontribusi pada visi Bandung sebagai kota cerdas (smart city).
 
 Komponen Pembangun :
